@@ -1,1 +1,2 @@
-# osTicket-Post-Installation
+# osTicket Configuration and User Management
+
