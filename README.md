@@ -1,3 +1,5 @@
+![68747470733a2f2f692e696d6775722e636f6d2f7278463149686a2e706e67](https://github.com/user-attachments/assets/7fa9f6dd-dbb0-45db-b07b-2031041045fb)
+
 # osTicket Configuration and User Management
 
 This project involves configuring the osTicket support system on a Windows 10 VM in Azure. The setup includes defining roles, departments, SLAs, and user access to create an organized and functional help desk.
