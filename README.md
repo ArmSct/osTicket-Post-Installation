@@ -7,7 +7,7 @@ This project involves configuring the osTicket support system on a Windows 10 VM
 ## Technologies Utilized
 - osTicket v1.15.8 (Support ticketing system)
 - Windows 10 VM on Azure
-- IIS, PHP, MySQL (Underlying stack)
+- IIS, PHP, MySQL (Underlying stack) 
 -  RDP (For remote access)
   
 ## Accessing osTicket
