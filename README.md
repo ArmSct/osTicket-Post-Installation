@@ -3,7 +3,7 @@
 # osTicket Configuration and User Management
 
 This project involves configuring the osTicket support system on a Windows 10 VM in Azure. The setup includes defining roles, departments, SLAs, and user access to create an organized and functional help desk.
-
+ 
 ## Technologies Utilized
 - osTicket v1.15.8 (Support ticketing system)
 - Windows 10 VM on Azure
